@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\service\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\service\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\repository\\impiegatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\repository\\impiegatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\views\\impiegato\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\views\\impiegato\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\service\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\service\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\repository\\repartorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\repository\\repartorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|c:\\users\\utente\\desktop\\code\\c#\\programmi_classe\\2t\\esercitazione17aprile\\esercitazione17aprile\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337D333D-3FC4-4489-974F-166445F631EF}|Esercitazione17Aprile\\Esercitazione17Aprile.csproj|solutionrelative:esercitazione17aprile\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inserimento.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Views\\Impiegato\\Inserimento.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeToolTip": "Esercitazione17Aprile\\Views\\Impiegato\\Inserimento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:55:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpiegatoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Service\\ImpiegatoService.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Service\\ImpiegatoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Service\\ImpiegatoService.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Service\\ImpiegatoService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:44:52.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepartoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Repository\\RepartoRepository.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Repository\\RepartoRepository.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Repository\\RepartoRepository.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Repository\\RepartoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:32:24.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImpiegatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Repository\\ImpiegatoRepository.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Repository\\ImpiegatoRepository.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Repository\\ImpiegatoRepository.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Repository\\ImpiegatoRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImpiegatoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Controllers\\ImpiegatoController.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Controllers\\ImpiegatoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Controllers\\ImpiegatoController.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Controllers\\ImpiegatoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:35:43.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepartoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Service\\RepartoService.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Service\\RepartoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Service\\RepartoService.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Service\\RepartoService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:45:03.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Esercitazione17Aprile\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:46:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Views\\Impiegato\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Views\\Impiegato\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Views\\Impiegato\\Lista.cshtml",
+              "RelativeToolTip": "Esercitazione17Aprile\\Views\\Impiegato\\Lista.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:55:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepartoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Controllers\\RepartoController.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Controllers\\RepartoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Controllers\\RepartoController.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Controllers\\RepartoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:18:38.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Program.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Program.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:11:52.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Impiegato.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Models\\Impiegato.cs",
+              "RelativeDocumentMoniker": "Esercitazione17Aprile\\Models\\Impiegato.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\CODE\\C#\\PROGRAMMI_CLASSE\\2T\\Esercitazione17Aprile\\Esercitazione17Aprile\\Models\\Impiegato.cs",
+              "RelativeToolTip": "Esercitazione17Aprile\\Models\\Impiegato.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:06:32.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

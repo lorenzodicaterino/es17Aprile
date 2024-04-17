@@ -1,0 +1,13 @@
+﻿@model Esercitazione17Aprile.Models.Reparto
+
+@{
+}
+
+<form method="post" asp-controller="Reparto" asp-action="Salvataggio">
+    <div class="form-group">
+        <label for="NomeReparto">Nome reparto</label>
+        <input type="text" class="form-control" asp-for=NomeReparto />
+    </div>
+
+    <button class="btn btn-primary btn-block" type="submit">Salva</button>
+</form>

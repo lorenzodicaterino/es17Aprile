@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-custom" style="background-color:#7bb51c">
+            <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+                <ul class="navbar-nav mr-auto ml-2">
+                    <li class="nav-item active">
+                    <a class="nav-link" href="/Reparto/Lista" style="color:black">Reparti</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="/Impiegato/Lista" style="color:black">Impiegati</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="mx-auto order-0">
+                <a class="navbar-brand mx-auto" href="#">
+                <img src="~/lib/img/Immagine 2024-04-17 145223.png" width="140px" style="background-color:white; border-block-color:white" />
+                </a>
+                <button class="navbar-toggler"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target=".dual-collapse2">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+                
+            </div>
+        </nav>
+    
+    <div>
+        @RenderBody()
+    </div>
+
+
+
+
+
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="/js/script_personalizzato.js"></script>
+</body>
+</html>

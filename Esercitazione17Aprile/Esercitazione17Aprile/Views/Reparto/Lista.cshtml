@@ -1,0 +1,21 @@
+﻿@model List<Esercitazione17Aprile.Models.Reparto>
+
+@{
+
+}
+
+<table class="table table-striped">
+    <thead>
+        <th>Identificativo</th>
+        <th>Nome</th>
+    </thead>
+    <tbody>
+        @foreach(Reparto r in Model)
+        {
+            <tr>
+                <td>@r.RepartoId</td>
+                <td>@r.NomeReparto</td>
+            </tr>
+        }
+    </tbody>
+</table> 

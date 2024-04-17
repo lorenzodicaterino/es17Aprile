@@ -1,0 +1,51 @@
+﻿@model Esercitazione17Aprile.Models.Impiegato
+
+
+@{
+
+}
+
+<form method="post" asp-controller="Impiegato" asp-action="Salvataggio" style="margin-left:5px; margin-top:10px">
+    <div class="form-group">
+        <label for="Matricola" class="mt-1">Matricola impiegato</label>
+        <input type="text" class="form-control" asp-for=Matricola />
+    </div>
+    <div class="form-group">
+        <label for="NomeImpiegato" class="mt-1">Nome impiegato</label>
+        <input type="text" class="form-control" asp-for=NomeImpiegato />
+    </div>
+    <div class="form-group">
+        <label for="CognomeImpiegato" class="mt-1">Cognome impiegato</label>
+        <input type="text" class="form-control" asp-for=CognomeImpiegato />
+    </div>
+    <div>
+        <label for="DataDiNascita" class="mt-1">Data di nascita</label>
+        <input type="date" class="form-control" asp-for=DataNascitaImpiegato/>
+    </div>
+    <div>
+        <label for="RuoloImpiegato" class="mt-1">Ruolo Impiegato</label>
+        <input type="text" class="form-control" asp-for=RuoloImpiegato />
+    </div>
+    <div>
+        <label for="IndirizzoImpiegato" class="mt-1">Indirizzo Impiegato</label>
+        <input type="text" class="form-control" asp-for=IndirizzoImpiegato />
+    </div>
+
+    <div>
+        <label for="CittaImpiegato" class="mt-1">Citta Impiegato</label>
+        <input type="text" class="form-control" asp-for=CittaRif />
+    </div>
+    <div class="form-group">
+        <label for="RepartoRifNavigation" class="mt-1">Reparto</label>
+        <br />
+        <select asp-for=RepartoRif style="width:100%"> 
+            @foreach(Reparto r in @ViewBag.ListaReparti)
+            {
+                <option value="@r.RepartoId">@r.NomeReparto</option>
+            }
+        </select>
+    </div>
+
+    <br />
+    <button class="btn" type="submit" style="width:100%; background-color:#7bb51c">Salva</button>
+</form>

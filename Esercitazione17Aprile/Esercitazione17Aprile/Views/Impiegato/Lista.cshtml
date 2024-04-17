@@ -1,0 +1,37 @@
+﻿@model List<Esercitazione17Aprile.Models.Impiegato>
+
+@{
+
+}
+
+<div class="mt-2">
+    <a class="btn btn-outline" style="width:100%; background-color:#7bb51c" href="/Impiegato/Inserimento">Inserisci</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <th>Identificativo</th>
+        <th>Matricola</th>
+        <th>Nome</th>
+        <th>Cognome</th>
+        <th>Data di nascita</th>
+        <th>Citta</th>
+        <th>Indirizzo</th>
+        <th>Reparto</th>
+    </thead>
+    <tbody>
+        @foreach(Impiegato r in Model)
+        {
+            <tr>
+                <td>@r.ImpiegatoId</td>
+                <td>@r.Matricola</td>
+                <td>@r.NomeImpiegato</td>
+                <td>@r.CognomeImpiegato</td>
+                <td>@r.DataNascitaImpiegato</td>
+                <td>@r.CittaRif</td>
+                <td>@r.IndirizzoImpiegato</td>
+                <td>@r.RepartoRifNavigation.NomeReparto</td>
+            </tr>
+        }
+    </tbody>
+</table> 
